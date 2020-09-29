@@ -1,0 +1,9 @@
+.Tilt {
+  background: linear-gradient(89deg, #ff5def 0%, #04c8de 100%);
+}
+
+.position {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
